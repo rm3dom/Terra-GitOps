@@ -1,6 +1,6 @@
 # Terraform / Helm / GitHook / GitOps
 
-Example using Terraform and Helm for GitOps. This sample uses a git hook. 
+Example using Terraform and Helm for GitOps. 
 
 ## This projects uses
 
